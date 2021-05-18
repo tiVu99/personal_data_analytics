@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: setdefaultencoding
+Version: 0.0.0a0
+Summary: Steal a copy of sys.setdefaultencoding during site initialization for later.
+Home-page: UNKNOWN
+Author: Thomas Grainger
+Author-email: setdefaultencoding@graingert.co.uk
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+Steal a copy of sys.setdefaultencoding during site initialization for later.
+
+

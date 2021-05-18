@@ -1,0 +1,1 @@
+def setdefaultencoding(*args, **kwargs): pass
